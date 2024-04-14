@@ -1,2 +1,2 @@
-# Project
-I am going to make a simple 2D game framework using raylib and then I'll make a game in it!
+# LD 55
+Source code for my ludum dare 55 submission
