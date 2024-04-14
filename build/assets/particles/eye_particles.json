@@ -1,0 +1,27 @@
+{
+    "texture": "particle.png",
+    "lifetime": 1, "lifetime_randomness": 0.4,
+
+    "firerate": 10.0, "firerate_randomness": 0,
+    "amount": 2,
+
+    "scale": 1, "scale_randomness": 0.5,
+    "scale_end": 0.25,
+    "scale_ease": "ease_in_out",
+
+    "angle": 0, "angle_randomness": 360,
+    "velocity_angle": true,
+
+    "angular_velocity": 0,
+    "angular_velocity_randomness": 2000,
+
+    "tint": [0, 155, 255, 255], "tint_randomness": 0,
+    "tint_end": [0, 155, 255, 50],
+    "tint_ease": "ease_in_out",
+
+    "velocity": 32, "velocity_randomness": 0,
+    "velocity_end" : 0.5,
+    "velocity_ease": "ease_out",
+
+    "shot_angle": -1.68, "spread": 0.6
+}
